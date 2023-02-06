@@ -7,7 +7,7 @@ import (
 	"sort"
 	"unicode/utf8"
 
-	"github.com/vmware-labs/go-yaml-edit/splice"
+	"github.com/twskipper/go-yaml-edit/splice"
 	"golang.org/x/text/transform"
 	"gopkg.in/yaml.v3"
 )

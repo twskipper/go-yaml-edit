@@ -1,3 +1,4 @@
+# Fork clone from git@github.com:vmware-archive/go-yaml-edit.git
 # WARNING: This repository is no longer actively maintained by VMware.
 
 VMware has made the difficult decision to stop driving this project and therefore we will no longer actively respond
@@ -7,11 +8,12 @@ let us know so we can add a link to your forked project here.
 Thank You.
 
 #
+
 #
 
-[![](https://img.shields.io/static/v1?label=godev&message=reference&color=00add8)](https://pkg.go.dev/github.com/vmware-labs/go-yaml-edit?tab=doc)
-[![Go Report Card](https://goreportcard.com/badge/github.com/vmware-labs/go-yaml-edit)](https://goreportcard.com/report/github.com/vmware-labs/go-yaml-edit)
-![](https://github.com/vmware-labs/go-yaml-edit/workflows/CI/badge.svg)
+[![](https://img.shields.io/static/v1?label=godev&message=reference&color=00add8)](https://pkg.go.dev/github.com/twskipper/go-yaml-edit?tab=doc)
+[![Go Report Card](https://goreportcard.com/badge/github.com/twskipper/go-yaml-edit)](https://goreportcard.com/report/github.com/twskipper/go-yaml-edit)
+![](https://github.com/twskipper/go-yaml-edit/workflows/CI/badge.svg)
 
 # go-yaml-edit
 
@@ -19,7 +21,7 @@ This project contains a Go package that implements helpers for in-place editing 
 
 ## Documentation
 
-Read full doc on the [Go package documentation page](https://pkg.go.dev/github.com/vmware-labs/go-yaml-edit?tab=doc).
+Read full doc on the [Go package documentation page](https://pkg.go.dev/github.com/twskipper/go-yaml-edit?tab=doc).
 
 ## Contributing
 
